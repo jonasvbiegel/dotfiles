@@ -644,6 +644,7 @@ require("lazy").setup({
 				--
 
 				omnisharp = {},
+				texlab = {},
 				lua_ls = {
 					-- cmd = { ... },
 					-- filetypes = { ... },
