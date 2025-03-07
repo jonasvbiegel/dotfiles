@@ -1,0 +1,241 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="3" l="1738835958932" />
+    </e>
+    <e n="$SelectAll">
+      <i c="8" l="1740470469793" />
+    </e>
+    <e n="$Undo">
+      <i c="33" l="1738837984841" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="1" l="1738836393637" />
+    </e>
+    <e n="AddReferenceAction">
+      <i c="1" l="1738836985026" />
+    </e>
+    <e n="AddRiderItem">
+      <i c="1" l="1738836903011" />
+    </e>
+    <e n="BuildSelection">
+      <i c="1" l="1738828426910" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="4" l="1739274159527" />
+    </e>
+    <e n="CopyAbsolutePath">
+      <i c="1" l="1738834093958" />
+    </e>
+    <e n="CopyReferencePopupGroup">
+      <i c="2" l="1738834090075" />
+    </e>
+    <e n="Debug">
+      <i c="3" l="1738829659105" />
+    </e>
+    <e n="EditPropertiesAction">
+      <i c="3" l="1738836913614" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="707" l="1740470471718" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="107" l="1739274145379" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="2" l="1738841766737" />
+    </e>
+    <e n="EditorCopy">
+      <i c="2" l="1738828802639" />
+    </e>
+    <e n="EditorCut">
+      <i c="9" l="1739274093021" />
+    </e>
+    <e n="EditorDeleteLine">
+      <i c="2" l="1738828667067" />
+    </e>
+    <e n="EditorDeleteToWordEnd">
+      <i c="2" l="1739273898708" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="507" l="1739274148833" />
+    </e>
+    <e n="EditorDown">
+      <i c="479" l="1739274153154" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="1" l="1739273642846" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="1" l="1738836455210" />
+    </e>
+    <e n="EditorEnter">
+      <i c="189" l="1739274146260" />
+    </e>
+    <e n="EditorEscape">
+      <i c="39" l="1740470530767" />
+    </e>
+    <e n="EditorLeft">
+      <i c="393" l="1739274143060" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="43" l="1738828844402" />
+    </e>
+    <e n="EditorPageDown">
+      <i c="13" l="1739273635342" />
+    </e>
+    <e n="EditorPageUp">
+      <i c="5" l="1739273634947" />
+    </e>
+    <e n="EditorPaste">
+      <i c="10" l="1739273927616" />
+    </e>
+    <e n="EditorPasteFromX11">
+      <i c="2" l="1739273326641" />
+    </e>
+    <e n="EditorRight">
+      <i c="521" l="1739274156022" />
+    </e>
+    <e n="EditorStartNewLineBefore">
+      <i c="1" l="1739272882050" />
+    </e>
+    <e n="EditorTab">
+      <i c="34" l="1739272841094" />
+    </e>
+    <e n="EditorUp">
+      <i c="186" l="1739274125446" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="4" l="1739273642008" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="1" l="1737473127056" />
+    </e>
+    <e n="IncrementalSearch">
+      <i c="2" l="1738836456777" />
+    </e>
+    <e n="ManageDotNetSdk">
+      <i c="2" l="1738828439477" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="3" l="1738829661895" />
+    </e>
+    <e n="NewDir">
+      <i c="5" l="1738836632929" />
+    </e>
+    <e n="NewFile">
+      <i c="1" l="1738835955757" />
+    </e>
+    <e n="NewRiderProject">
+      <i c="4" l="1738836640783" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="1" l="1738841767467" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="8" l="1738836544278" />
+    </e>
+    <e n="Refactorings.QuickListPopupAction">
+      <i c="4" l="1738836704592" />
+    </e>
+    <e n="RenameElement">
+      <i c="1" l="1738833708258" />
+    </e>
+    <e n="RiderNewSolution">
+      <i c="10" l="1739272063866" />
+    </e>
+    <e n="RiderOpenSolution">
+      <i c="3" l="1738668845428" />
+    </e>
+    <e n="Run">
+      <i c="56" l="1739274161444" />
+    </e>
+    <e n="RunAnything">
+      <i c="1" l="1738833492438" />
+    </e>
+    <e n="RunToCursor">
+      <i c="1" l="1738669217532" />
+    </e>
+    <e n="SaveDocument">
+      <i c="1" l="1738827443861" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1738829774716" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="96" l="1739272172970" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1740470437553" />
+    </e>
+    <e n="ShowSolutionPropertiesAction">
+      <i c="2" l="1738829908767" />
+    </e>
+    <e n="StepInto">
+      <i c="1" l="1738669261537" />
+    </e>
+    <e n="StepOut">
+      <i c="1" l="1738669271412" />
+    </e>
+    <e n="StepOver">
+      <i c="4" l="1738669329540" />
+    </e>
+    <e n="Stop">
+      <i c="6" l="1739273457610" />
+    </e>
+    <e n="SurroundWithLiveTemplate">
+      <i c="1" l="1738828618869" />
+    </e>
+    <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
+      <i c="2" l="1738836545303" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="2" l="1738663695191" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="3" l="1740470518232" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.impl.MoreActionGroup">
+      <i c="3" l="1738669215988" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1738662603659" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1738829776019" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="19" l="1740470579171" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="1" l="1737817552820" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="10" l="1740470434587" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="12" l="1740470546324" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="2" l="1738836686768" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
+      <i c="2" l="1738829775249" />
+    </e>
+    <e n="com.jetbrains.rider.actions.RiderActionUpdateInterceptor$RiderBackendCompositeAction">
+      <i c="7" l="1739274159524" />
+    </e>
+    <e n="com.jetbrains.rider.build.actions.ActiveConfigurationAndPlatformActionGroup$SelectConfigurationAction">
+      <i c="4" l="1739272817706" />
+    </e>
+    <e n="com.jetbrains.rider.projectView.actions.newFile.RiderNewMultiFileFromTemplateAction">
+      <i c="15" l="1738838026441" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="1" l="1740470520307" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1738829617229" />
+    </e>
+  </component>
+</application>

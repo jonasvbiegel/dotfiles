@@ -1,0 +1,52 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVy</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/RiderProjects/scrapergaming/scrapergaming/Program.cs" timestamp="1740470537791">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="8" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="CHARACTER_WISE">
+        <text encoding="base64">Ly9mb3IgKGludCBpbmRleCA9IDA7IGluZGV4IDwgY2l0aWVzLkNvdW50OyBpbmRleCArPSA0KQovLyB7Ci8vICAgICBzdHJpbmcgdGVtcGVyYXR1cmUgPSBjaXRpZXNbaW5kZXggKyAzXS5Jbm5lclRleHQ7Ci8vICAgICBpbnQgcG9zQW1iZXJzYW5kID0gdGVtcGVyYXR1cmUuSW5kZXhPZignJicpOwovLyAgICAgQ29uc29sZS5Xcml0ZUxpbmUoY2l0aWVzW2luZGV4XS5Jbm5lclRleHQgKyAiICAgIiArIGNpdGllc1tpbmRleCszXS5Jbm5lclRleHQuUmVtb3ZlKHBvc0FtYmVyc2FuZCwgNikpOwovLyB9Ci8vIGZvciAoaW50IGkgPSAwOyBpIDwgMTsgaSsrKQovLyB7Ci8vICAgICBDb25zb2xlLldyaXRlTGluZShjaXRpZXNbaV0uSW5uZXJUZXh0KTsKLy8gfQ==</text>
+      </register>
+      <register name="3" type="CHARACTER_WISE">
+        <text encoding="base64">Ly9mb3IgKGludCBpbmRleCA9IDA7IGluZGV4IDwgY2l0aWVzLkNvdW50OyBpbmRleCArPSA0KQovLyB7Ci8vICAgICBzdHJpbmcgdGVtcGVyYXR1cmUgPSBjaXRpZXNbaW5kZXggKyAzXS5Jbm5lclRleHQ7Ci8vICAgICBpbnQgcG9zQW1iZXJzYW5kID0gdGVtcGVyYXR1cmUuSW5kZXhPZignJicpOwovLyAgICAgQ29uc29sZS5Xcml0ZUxpbmUoY2l0aWVzW2luZGV4XS5Jbm5lclRleHQgKyAiICAgIiArIGNpdGllc1tpbmRleCszXS5Jbm5lclRleHQuUmVtb3ZlKHBvc0FtYmVyc2FuZCwgNikpOwovLyB9Ci8vIGZvciAoaW50IGkgPSAwOyBpIDwgMTsgaSsrKQovLyB7Ci8vICAgICBDb25zb2xlLldyaXRlTGluZShjaXRpZXNbaV0uSW5uZXJUZXh0KTsKLy8gfQ==</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVy</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64" />
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>
