@@ -213,11 +213,11 @@ exec_always xinput set-prop 25 "libinput Accel Profile Enabled" 0 1
 exec_always xrandr --output DP-3 --primary --right-of HDMI-1
 
 # set gaps
-gaps inner 15
-gaps outer 8
+gaps inner 10
+gaps outer 5
 
 # set top gap for polybar xd
-# gaps top 10
+# gaps top 1
 
 # set borders
 
@@ -241,7 +241,7 @@ exec_always --no-startup-id ~/.config/i3/polybar.sh &
 exec_always ~/.fehbg &
 
 # start picom GAMING
-exec_always --no-startup-id picom -b
+# exec_always --no-startup-id picom -b
 
 # set border colors
 hide_edge_borders smart
