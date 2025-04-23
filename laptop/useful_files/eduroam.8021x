@@ -1,8 +1,0 @@
-[Security]
-EAP-Method=PEAP
-EAP-Identity=10519146@ucn.dk
-EAP-PEAP-Phase2-Method=MSCHAPV2
-EAP-PEAP-Phase2-Identity=10519146@ucn.dk
-
-[Settings]
-AutoConnect = true
