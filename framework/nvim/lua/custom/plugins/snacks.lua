@@ -9,6 +9,8 @@ return {
 			explorer = {},
 			picker = {},
 			bufdelete = {},
+			terminal = {},
+			-- statuscolumn = {},
 		},
 		keys = {
 			{
@@ -24,6 +26,13 @@ return {
 					Snacks.bufdelete()
 				end,
 				desc = "Delete current buffer",
+			},
+			{
+				"<C-w>",
+				function()
+					Snacks.terminal.toggle()
+				end,
+				desc = "Open terminal",
 			},
 		},
 	},

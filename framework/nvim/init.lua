@@ -100,7 +100,7 @@ vim.g.have_nerd_font = true
 
 -- Make line numbers default
 vim.opt.relativenumber = true
-vim.opt.number = true
+vim.opt.number = tru
 -- You can also add relative line numbers, to help with jumping.
 --  Experiment for yourself to see if you like it!
 -- vim.opt.relativenumber = true
@@ -189,6 +189,11 @@ vim.keymap.set("n", "<C-h>", "<C-w><C-h>", { desc = "Move focus to the left wind
 vim.keymap.set("n", "<C-l>", "<C-w><C-l>", { desc = "Move focus to the right window" })
 vim.keymap.set("n", "<C-j>", "<C-w><C-j>", { desc = "Move focus to the lower window" })
 vim.keymap.set("n", "<C-k>", "<C-w><C-k>", { desc = "Move focus to the upper window" })
+
+-- Set terminal thingy
+vim.keymap.set("t", "<C-w>", function()
+	Snacks.terminal.toggle()
+end)
 
 -- [[ Basic Autocommands ]]
 --  See `:help lua-guide-autocommands`
@@ -1021,6 +1026,8 @@ require("lazy").setup({
 })
 
 vim.keymap.set("n", "<leader>r", vim.diagnostic.goto_next, opts)
+
+vim.go.laststatus = 3
 
 -- The line beneath this is called `modeline`. See `:help modeline`
 -- vim: ts=2 sts=2 sw=2 et
