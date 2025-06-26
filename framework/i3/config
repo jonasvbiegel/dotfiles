@@ -41,6 +41,8 @@ bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT
 bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
 bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
 
+bindsym XF86AudioPlay exec playerctl play-pause
+
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 
@@ -247,8 +249,8 @@ exec_always ~/.fehbg &
 hide_edge_borders smart
 
 #class                  border  backgr. text    indicator       child_border
-client.focused          #1e1e2e #1e1e2e #ffffff #7daea3         #7daea3
-client.focused_inactive #94e2d5 #94e2d5 #ffffff #1e1e2e         #1e1e2e
+client.focused          #bd93f9 #bd93f9 #ffffff #bd93f9         #bd93f9
+client.focused_inactive #bd93f9 #bd93f9 #ffffff #bd93f9         #bd93f9
 
 # keybinding to lock screen
 # bindsym $mod+Control+l exec "i3lock -c 000000"

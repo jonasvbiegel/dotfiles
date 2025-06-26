@@ -5,7 +5,6 @@ return {
 		lazy = false,
 		-- -@type Snacks.Config
 		opts = {
-			image = {},
 			explorer = {},
 			picker = {},
 			bufdelete = {},

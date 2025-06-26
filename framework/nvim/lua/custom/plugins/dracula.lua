@@ -4,8 +4,8 @@ return {
 		priority = 1000,
 		lazy = false,
 		name = "dracula",
-		-- opts = {
-		-- 	transparent_background = true,
-		-- },
+		opts = {
+			transparent_bg = true,
+		},
 	},
 }

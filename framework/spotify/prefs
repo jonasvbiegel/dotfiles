@@ -1,0 +1,16 @@
+autologin.canonical_username="1115110983"
+autologin.username="1115110983"
+autologin.blob="XSKe/16VuEJde9O8zIwBxDOXeB5t3TYbF0F73++pqperXyvNIwGl2vWe67flkAwMjVTjC/OnjgGI0ISw8na+nsVJaoflD7F92KK6jDWek/8D7F3BOvNS7YLlA3GRm3jztf96pKbBrQXrPlbRr2wi/7yyikOaxqS6dU9UMaA1UhAScY0ikbb/JXhtHnvqw5M8dFIRab1VI7a4LYrG1lYRlAn9DHsg5hqlCXT+bu7Qotaa8gZWqrxL57lYS8ImrIcD"
+autologin.saved_credentials="{\"1115110983\":[\"1115110983\",\"XSKe/16VuEJde9O8zIwBxDOXeB5t3TYbF0F73++pqperXyvNIwGl2vWe67flkAwMjVTjC/OnjgGI0ISw8na+nsVJaoflD7F92KK6jDWek/8D7F3BOvNS7YLlA3GRm3jztf96pKbBrQXrPlbRr2wi/7yyikOaxqS6dU9UMaA1UhAScY0ikbb/JXhtHnvqw5M8dFIRab1VI7a4LYrG1lYRlAn9DHsg5hqlCXT+bu7Qotaa8gZWqrxL57lYS8ImrIcD\"]}"
+app.window.state.saved=true
+app.window.position.width=2226
+app.rollback-to-sc=true
+es.send-on-startup=true
+core.clock_delta=0
+app.window.state=2
+app.window.position.saved=true
+app.window.position.height=1428
+app.window.position.y=61
+storage.last-location="/home/jonas/.cache/spotify/Storage"
+app.window.position.x=15
+app.last-launched-version="1.2.60.564.gcc6305cb"

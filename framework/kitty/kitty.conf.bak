@@ -20,7 +20,7 @@
 #: <https://sw.kovidgoyal.net/kitty/kittens/choose-fonts/#font-spec-
 #: syntax>.
 
-font_size 16.0
+font_size 18.0
 
 #: Font size (in pts).
 
@@ -156,8 +156,8 @@ font_size 16.0
 #: font glyph is rendered and the baseline at which the glyph is
 #: placed in the cell. For example::
 
-#:     modify_font cell_width 80%
-#:     modify_font cell_height -2px
+     # modify_font cell_width 110%
+     # modify_font cell_height 5px
 #:     modify_font baseline 3
 
 #: Note that modifying the baseline will automatically adjust the
@@ -1224,7 +1224,7 @@ window_margin_width 8
 #: The foreground and background colors.
 
 # background_opacity 1.0
-# background_opacity 0.95
+background_opacity 0.95
 
 #: The opacity of the background. A number between zero and one, where
 #: one is opaque and zero is fully transparent. This will only work if
@@ -1249,7 +1249,7 @@ window_margin_width 8
 #: will only work if dynamic_background_opacity was enabled in the
 #: original config.
 
-# background_blur 0
+# background_blur 10
 
 #: Set to a positive value to enable background blur (blurring of the
 #: visuals behind a transparent window) on platforms that support it.
@@ -2664,12 +2664,12 @@ window_margin_width 8
 
 
 # BEGIN_KITTY_THEME
-# Catppuccin-Frappe
+# Dracula
 include current-theme.conf
 # END_KITTY_THEME
 
 # BEGIN_KITTY_FONTS
-font_family      family="Fira Code"
+font_family      family='Cascadia Code NF' variable_name=CascadiaCodeNFRoman wght=392.5675675675676
 bold_font        auto
 italic_font      auto
 bold_italic_font auto
